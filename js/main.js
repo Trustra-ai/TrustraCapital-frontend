@@ -1,5 +1,4 @@
 const API_BASE = 'https://trustracapital-backend.onrender.com/api/auth';
-const responseEl = document.getElementById('response');
 const messageEl = document.getElementById('message');
 
 // Register
