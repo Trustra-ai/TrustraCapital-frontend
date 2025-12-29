@@ -44,8 +44,13 @@ button:hover {
   margin-top: 10px;
 }
 
-pre {
-  background: #eee;
-  padding: 10px;
-  overflow-x: auto;
+.logo-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin-bottom: 10px;
 }
